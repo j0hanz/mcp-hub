@@ -1,9 +1,6 @@
 # MCP Hub Plugin
 
-<!-- docs-maintainer:START -->
-
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=fff&style=for-the-badge) ![Version](https://img.shields.io/github/v/tag/j0hanz/mcp-hub?label=version&style=for-the-badge) ![License](https://img.shields.io/github/license/j0hanz/mcp-hub?style=for-the-badge)
-<!-- docs-maintainer:END -->
+**Archived: this repository is no longer maintained. Please refer to [@j0hanz/j0hanz-marketplace](https://github.com/j0hanz/j0hanz-marketplace) for the latest updates and support.**
 
 A plugin for [Claude Code](https://claude.com/claude-code) and [GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli): skills and agents for building, testing, auditing, distributing, and migrating MCP servers and clients with the [MCP TypeScript SDK v2](https://ts.sdk.modelcontextprotocol.io/v2/) (`2.0.0-beta.3`, protocol revision `2026-07-28`).
 
